@@ -5,3 +5,10 @@
 .card-gradelevel{
     font-size: small;
 }
+.nav-link:active{
+    background-color: red;
+}
+
+.card-title{
+    text-transform: capitalize;
+}
