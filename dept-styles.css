@@ -6,7 +6,10 @@
     font-size: small;
 }
 .nav-link:active{
-    background-color: red;
+    background-color:red;
+}
+.nav-link:hover{
+    background-color: rgba(198, 223, 255, 0.589);
 }
 
 .card-title{
