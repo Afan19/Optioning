@@ -8,6 +8,16 @@
 .nav-link:active{
     background-color:00008b;
 }
+.nav-link.active
+{
+    color:#00008b;
+    background-color:#fff;
+    border-color:#dee2e6 #dee2e6 #fff}
+    
+.nav-link{
+    color:#fff;
+    background-color:#007bff
+}
 .nav-link:hover{
     background-color: rgba(198, 223, 255, 0.589);
 }
