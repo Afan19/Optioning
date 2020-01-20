@@ -6,7 +6,7 @@
     font-size: small;
 }
 .nav-link:active{
-    background-color:whitesmoke;
+    background-color:blue;
 }
 .nav-link:hover{
     background-color: rgba(198, 223, 255, 0.589);
