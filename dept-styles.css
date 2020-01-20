@@ -17,17 +17,27 @@
 .nav-link{
     color:#fff;
     background-color:#007bff
-} */
+} 
 .nav-link:hover{
     background-color: rgba(198, 223, 255, 0.589);
 }
+*/
 
 .card-title{
     text-transform: capitalize;
 }
 
-.nav-link:hover{
+/*.nav-link:hover{
+    background-color: rgba(198, 223, 255, 0.589);
+}
+*/
+nav[role="main"] ul li {
     background-color: rgba(198, 223, 255, 0);
+}
+
+nav[role="sub"] ul li:hover {
+    background-color:  rgba(198, 223, 255, 0.589);
+  
 }
 
 /*.nav-bg
