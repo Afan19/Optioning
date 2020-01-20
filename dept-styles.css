@@ -26,7 +26,12 @@
     text-transform: capitalize;
 }
 
-.nav-bg
+.nav-link:hover{
+    background-color: rgba(198, 223, 255, 0);
+}
+
+/*.nav-bg
 {
     color:#00008b;
 }
+*/
