@@ -8,6 +8,9 @@
 .nav-link:active{
     background-color:darkblue;
 }
+.nav-bg{
+    background-color:darkblue;
+}
 .nav-link:hover{
     background-color: rgba(198, 223, 255, 0.589);
 }
