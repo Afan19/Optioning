@@ -47,8 +47,10 @@ nav[role="sub"] ul li:hover {
 
 .footer-design{
     text-align:center;
-    font-size: 15px;
+    font-size: 10px;
     border-style:hidden;
+    background-color:  rgb(6, 7, 10);
+    text-decoration-color: white;
 }
 
 /*.nav-bg
