@@ -8,7 +8,7 @@
 .nav-link:active{
     background-color:00008b;
 }
-.nav-link.active
+/*.nav-link.active
 {
     color:#00008b;
     background-color:#fff;
@@ -17,11 +17,16 @@
 .nav-link{
     color:#fff;
     background-color:#007bff
-}
+} */
 .nav-link:hover{
     background-color: rgba(198, 223, 255, 0.589);
 }
 
 .card-title{
     text-transform: capitalize;
+}
+
+.nav-bg
+{
+    color:#00008b;
 }
