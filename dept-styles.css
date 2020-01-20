@@ -6,10 +6,7 @@
     font-size: small;
 }
 .nav-link:active{
-    background-color:darkblue;
-}
-.nav-bg{
-    background-color:yellow;
+    background-color:00008b;
 }
 .nav-link:hover{
     background-color: rgba(198, 223, 255, 0.589);
