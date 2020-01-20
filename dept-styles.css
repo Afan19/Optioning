@@ -54,6 +54,7 @@ nav[role="sub"] ul li:hover {
     text-decoration-color: white;
     position:absolute;
     bottom:30px;
+    width:100%;
 }
 
 /*.nav-bg
