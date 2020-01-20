@@ -37,6 +37,7 @@ nav[role="main"] ul li {
 
 nav[role="sub"] ul li:hover {
     background-color:  rgba(198, 223, 255, 0.589);
+    border-radius: 3px ;
   
 }
 
