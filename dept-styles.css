@@ -22,7 +22,11 @@
     background-color: rgba(198, 223, 255, 0.589);
 }
 */
-
+.jumbotron text-center{
+    background-color: black;
+    background-size: cover;
+    
+}
 .card-title{
     text-transform: capitalize;
 }
@@ -37,7 +41,7 @@ nav[role="main"] ul li {
 
 nav[role="sub"] ul li:hover {
     background-color:  rgba(198, 223, 255, 0.589);
-    border-radius: 3px ;
+    border-radius: 5px ;
   
 }
 
